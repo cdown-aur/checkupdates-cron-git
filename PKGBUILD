@@ -2,7 +2,7 @@
 
 pkgname=checkupdates-cron-git
 _gitname=checkupdates-cron
-pkgver=20130415124851.e764211
+pkgver=20130415182842.fa0244d
 pkgrel=1
 pkgdesc="A tiny wrapper around the Arch checkupdates script for use in a cronjob"
 license=( "PD" )
